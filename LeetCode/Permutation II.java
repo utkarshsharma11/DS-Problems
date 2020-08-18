@@ -31,6 +31,7 @@ if(list.size()==nums.length)
             compute(nums,list);
             list.remove(list.size() - 1);
             visited[i] = false; 
+            
            }
            }
        
